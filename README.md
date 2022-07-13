@@ -9,9 +9,13 @@
 
     本项目在css样式上多有借鉴github项目mall-admin-web，在此表达诚挚谢意。
 
-## [chd餐厅的线上点餐子系统](https://github.com/All-The-Best-for/chd_res_vue)
+## [配套项目 chd餐厅的线上点餐子系统](https://github.com/All-The-Best-for/chd_res_vue)
 
-    Vue项目，主要使用Vue + Mint-UI开发，适用于移动端页面浏览
+    Vue + Mint-UI实现，适用于移动端页面浏览
+
+## [配套项目 chd餐厅的Spring Boot后端](https://github.com/All-The-Best-for/chd_res_manage_SpringBoot)
+
+    Vue + Mint-UI实现，适用于移动端页面浏览
 
 ## 本项目部分截图
 
