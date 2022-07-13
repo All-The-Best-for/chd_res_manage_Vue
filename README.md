@@ -11,7 +11,7 @@
 
 ## chd餐厅的线上点餐子系统
 
-    项目地址：https://github.com/All-The-Best-for/chd_res_vue
+    [项目地址：](https://github.com/All-The-Best-for/chd_res_vue)
 
     Vue项目，主要使用Vue + Mint-UI开发，适用于移动端页面浏览
 
